@@ -1,4 +1,5 @@
 # odpmkd
+Adición
 A small set of tools to process OpenDocument Presentation files (ODP), and to transform them to markdown.
 It will work acceptably for the "lecture notes style" slides, AKA "presentation-as-a-document" style: mostly text structured in bullet points. It will not work well at all for more "presentation style" slides, where the visual aspect and the arrangement of elements in the slides is important.
 
@@ -79,3 +80,4 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 This is a derivate work, based on <https://github.com/seichter/odp2md>, &copy; 2019-2021 Hartmut Seichter, under the same license.
+
